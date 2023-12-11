@@ -45,8 +45,8 @@ Welcome to the PGP-Data-Science-2023 Repository! This repository contains a coll
 
 8. **Project 8: Default Prediction and Stock Market Risk Analysis**
    - Description: The FRA project consists of two parts.
-  1. Part A focuses on default prediction and financial analysis, aiming to assess a company's ability to meet its debt obligations.
-  2. Part B involves market risk analysis, where the mean and std deviation of stock returns are calculated to gain insights into stock performance and volatility. These analyses are valuable tools for investors, financial institutions, and stakeholders in making informed decisions related to creditworthiness and investment strategies.
+   1. Part A focuses on default prediction and financial analysis, aiming to assess a company's ability to meet its debt obligations.
+   2. Part B involves market risk analysis, where the mean and std deviation of stock returns are calculated to gain insights into stock performance and volatility. These analyses are valuable tools for investors, financial institutions, and stakeholders in making informed decisions related to creditworthiness and investment strategies.
    - Skills and Technologies Used: Default Prediction, Financial Analysis, Balance Sheet, Creditworthiness 
    - Link to Project Folder: https://github.com/p1052/MS-Year-1-Data-Science-2023/tree/main/Financial%20Risk%20Analysis 
 
